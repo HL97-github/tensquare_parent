@@ -1,0 +1,6 @@
+com\tensquare\usercrawler\pojo\User.class
+com\tensquare\usercrawler\UserCrawlerApplication.class
+com\tensquare\usercrawler\task\UserTask.class
+com\tensquare\usercrawler\pipeline\UserPipeline.class
+com\tensquare\usercrawler\dao\UserDao.class
+com\tensquare\usercrawler\processor\UserProcessor.class

@@ -1,0 +1,10 @@
+com\tensquare\articlecrawler\pipeline\ArticleDbPipeline.class
+com\tensquare\articlecrawler\dao\ArticleDao.class
+com\tensquare\articlecrawler\pojo\Channel.class
+com\tensquare\articlecrawler\dao\ChannelDao.class
+com\tensquare\articlecrawler\task\ArticleTask.class
+com\tensquare\articlecrawler\pojo\Column.class
+com\tensquare\articlecrawler\processor\ArticleProcessor.class
+com\tensquare\articlecrawler\pojo\Article.class
+com\tensquare\articlecrawler\dao\ColumnDao.class
+com\tensquare\articlecrawler\ArticleCrawlerApplication.class
